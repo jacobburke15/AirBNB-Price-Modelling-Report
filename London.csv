@@ -1,0 +1,501 @@
+,room_id,host_id,room_type,borough,neighborhood,reviews,overall_satisfaction,accommodates,bedrooms,price,minstay,latitude,longitude,last_modified
+1,390884,1954991,Private room,Waltham Forest,Cann Hall,1,0,1,1,54,NA,51.554096,0.007171,13:23.8
+2,12185229,2006193,Private room,Richmond upon Thames,Kew,32,5,2,1,46,NA,51.477252,-0.289689,40:00.4
+3,9731220,7167719,Entire home/apt,Camden,Hampstead Town,0,0,6,5,384,NA,51.552353,-0.172948,13:47.5
+4,8880918,37423294,Shared room,Greenwich,Thamesmead Moorings,8,4.5,5,1,25,NA,51.501541,0.117879,32:12.7
+5,14566593,19614561,Private room,Lambeth,Thornton,0,0,2,1,42,NA,51.453735,-0.130878,16:53.5
+6,11316144,59179502,Private room,Southwark,Village,8,5,2,1,58,NA,51.450619,-0.099232,10:44.5
+7,2976476,8568942,Entire home/apt,Southwark,Brunswick Park,86,4.5,4,2,155,NA,51.479864,-0.083632,46:30.9
+8,17314564,104507582,Private room,Ealing,East Acton,0,0,2,1,58,NA,51.514587,-0.259291,13:34.8
+9,2190001,8852092,Private room,Greenwich,Blackheath Westcombe,24,5,2,1,58,NA,51.481541,0.005992,17:13.5
+10,16138859,46267717,Private room,Wandsworth,Shaftesbury,0,0,2,1,127,NA,51.463555,-0.154231,35:34.0
+11,7796925,34768731,Private room,Haringey,Stroud Green,27,5,2,1,70,NA,51.573969,-0.113501,32:25.3
+12,11294772,7233619,Entire home/apt,Hammersmith and Fulham,Hammersmith Broadway,23,5,4,1,180,NA,51.501036,-0.227658,42:03.0
+13,9544332,47045106,Entire home/apt,Richmond upon Thames,West Twickenham,12,5,4,2,186,NA,51.439041,-0.372739,58:41.2
+14,12400827,14875410,Private room,Westminster,Lancaster Gate,16,5,4,2,167,NA,51.513574,-0.179608,39:02.2
+15,8747240,21772653,Shared room,Westminster,St. James's,0,0,1,1,36,NA,51.512634,-0.117717,32:16.9
+16,8855853,36948057,Entire home/apt,Ealing,Southfield,2,0,3,2,155,NA,51.501184,-0.256522,43:13.0
+17,17244582,92935351,Entire home/apt,Lambeth,Prince's,0,0,8,2,244,NA,51.487193,-0.124576,33:39.6
+18,2592277,11616638,Private room,Tower Hamlets,Limehouse,11,5,2,1,126,NA,51.510747,-0.038983,56:44.3
+19,1609396,320901,Private room,Southwark,Newington,4,5,1,1,30,NA,51.48456,-0.097535,20:17.1
+20,819932,1642390,Entire home/apt,Camden,Swiss Cottage,7,5,2,1,129,NA,51.540287,-0.164154,48:27.4
+21,16349537,13097070,Private room,Southwark,Grange,2,0,1,2,45,NA,51.495411,-0.074222,48:24.4
+22,5740909,7949083,Private room,Wandsworth,St. Mary's Park,0,0,2,1,101,NA,51.471898,-0.175518,50:22.6
+23,7209936,28063358,Entire home/apt,Tower Hamlets,Canary Wharf,73,4.5,6,2,166,NA,51.498256,-0.021105,42:08.5
+24,17352684,39225820,Entire home/apt,Westminster,St. James's,0,0,2,1,226,NA,51.513012,-0.120392,27:06.3
+25,15103212,81617302,Entire home/apt,Ealing,Southfield,2,0,2,1,95,NA,51.505514,-0.252112,45:37.6
+26,14122278,84243464,Entire home/apt,Greenwich,Greenwich West,25,5,2,1,96,NA,51.483801,-0.019626,51:46.8
+27,13909660,82472443,Entire home/apt,Camden,Holborn and Covent Garden,6,3,5,3,321,NA,51.515274,-0.121383,11:27.7
+28,17042955,1817558,Entire home/apt,Camden,Cantelowes,2,0,2,1,167,NA,51.548117,-0.128086,32:42.5
+29,691811,2933487,Entire home/apt,Tower Hamlets,St. Katharine's & Wapping,4,5,2,1,122,NA,51.508075,-0.054211,43:01.1
+30,17885861,122407776,Entire home/apt,Westminster,Bryanston and Dorset Square,0,0,3,1,210,NA,51.514392,-0.158095,29:39.3
+31,606540,3004521,Private room,Waltham Forest,Lea Bridge,0,0,2,1,67,NA,51.570169,-0.032631,30:18.1
+32,5075297,26208141,Entire home/apt,Camden,Bloomsbury,147,4.5,6,2,198,NA,51.520733,-0.138306,57:01.3
+33,10218056,25629698,Entire home/apt,Richmond upon Thames,Heathfield,3,5,6,3,167,NA,51.448324,-0.369965,32:28.2
+34,11707759,6784520,Private room,Waltham Forest,High Street,0,0,2,1,89,NA,51.586803,-0.033918,32:29.7
+35,13243934,46403919,Private room,Bromley,Cray Valley East,31,4.5,1,1,28,NA,51.393117,0.122537,08:47.9
+36,10725563,9005321,Entire home/apt,Lambeth,Coldharbour,10,4.5,6,3,140,NA,51.46869,-0.110064,07:00.4
+37,16016464,60574773,Entire home/apt,Redbridge,Clementswood,0,0,4,2,155,NA,51.560067,0.08163,00:00.9
+38,15758349,15120025,Private room,Camden,Regent's Park,40,5,2,1,75,NA,51.526881,-0.138476,26:56.7
+39,236979,1242609,Entire home/apt,Hackney,Haggerston,35,4.5,2,1,115,NA,51.536779,-0.070041,32:04.9
+40,14009115,3576242,Private room,Islington,Tollington,0,0,2,1,58,NA,51.568652,-0.12301,06:11.1
+41,16282638,68496790,Entire home/apt,Westminster,Hyde Park,0,0,4,1,174,NA,51.515244,-0.164256,41:47.1
+42,6439658,2701693,Private room,Havering,Brooklands,0,0,1,1,32,NA,51.579467,0.167814,24:33.7
+43,9472546,15717968,Private room,Tower Hamlets,Whitechapel,0,0,2,1,38,NA,51.515527,-0.061238,01:05.4
+44,13328340,39059227,Private room,Hackney,King's Park,7,4.5,1,1,35,NA,51.551715,-0.036646,17:23.9
+45,10353304,24511529,Private room,Camden,West Hampstead,0,0,1,1,45,NA,51.545142,-0.19457,10:29.1
+46,16777668,111416348,Private room,Westminster,Regent's Park,1,0,3,1,77,NA,51.525872,-0.160328,41:06.6
+47,17729630,133271,Entire home/apt,Tower Hamlets,Weavers,0,0,6,3,371,NA,51.524019,-0.070504,11:15.3
+48,14100676,84877224,Private room,Barnet,Hendon,0,0,2,1,72,NA,51.59786,-0.235529,10:55.8
+49,9124638,31064341,Entire home/apt,Southwark,East Walworth,8,5,2,1,103,NA,51.487039,-0.077113,57:35.8
+50,14137392,41199340,Entire home/apt,Wandsworth,Bedford,0,0,8,5,367,NA,51.437756,-0.153799,10:50.8
+51,5976865,1616720,Entire home/apt,Brent,Queens Park,28,5,6,2,238,NA,51.536945,-0.208301,46:02.6
+52,3317911,13999196,Entire home/apt,Westminster,West End,23,4.5,5,1,174,NA,51.51478,-0.132633,41:22.6
+53,17837925,122005945,Entire home/apt,Hammersmith and Fulham,Avonmore and Brook Green,0,0,4,1,155,NA,51.492916,-0.206378,49:33.0
+54,9948584,5388183,Entire home/apt,Lambeth,Ferndale,83,4.5,4,1,96,NA,51.466355,-0.117996,39:59.7
+55,410971,2046191,Entire home/apt,Lambeth,Clapham Town,35,5,2,1,109,NA,51.462164,-0.137069,02:12.3
+56,14084316,59151315,Entire home/apt,Barnet,Totteridge,13,5,3,1,53,NA,51.632231,-0.181167,07:28.0
+57,3559133,17917744,Entire home/apt,Hammersmith and Fulham,North End,4,5,2,0,103,NA,51.488971,-0.206596,44:36.1
+58,12462068,23451819,Entire home/apt,Hackney,London Fields,0,0,4,1,167,NA,51.542794,-0.068304,34:58.7
+59,16564622,109102968,Private room,Westminster,Hyde Park,0,0,1,0,48,NA,51.515316,-0.170065,35:32.5
+60,15572066,10517513,Private room,Southwark,Riverside,16,5,2,1,54,NA,51.500779,-0.061404,42:11.4
+61,12621894,14954643,Entire home/apt,Hackney,London Fields,8,4.5,3,1,83,NA,51.541283,-0.056127,44:08.3
+62,5287433,27377462,Entire home/apt,Kensington and Chelsea,Earl's Court,83,4.5,6,3,133,NA,51.490021,-0.195214,43:26.8
+63,5013525,25856467,Shared room,Haringey,Seven Sisters,6,4.5,1,1,32,NA,51.577005,-0.08029,32:04.0
+64,14160994,72114888,Entire home/apt,Tower Hamlets,Lansbury,0,0,4,2,90,NA,51.513588,-0.000609,54:18.0
+65,6196884,31791411,Entire home/apt,Lambeth,Ferndale,19,5,2,1,103,NA,51.460077,-0.121781,24:43.9
+66,10375044,27286551,Private room,Brent,Willesden Green,3,5,2,1,45,NA,51.549514,-0.234946,40:26.7
+67,5091561,5334762,Private room,Hackney,King's Park,0,0,2,1,70,NA,51.556103,-0.043478,29:14.0
+68,17903218,35898744,Entire home/apt,Hammersmith and Fulham,Wormholt and White City,0,0,4,1,59,NA,51.507928,-0.235426,08:17.9
+69,15696228,101331771,Private room,Haringey,Harringay,1,0,2,1,20,NA,51.58375,-0.101022,14:28.1
+70,8619132,33634445,Entire home/apt,Hackney,Hackney Central,1,0,3,0,103,NA,51.549339,-0.057737,40:21.4
+71,17539412,6944431,Entire home/apt,Lambeth,Herne Hill,2,0,2,0,64,NA,51.466243,-0.096752,16:28.9
+72,7297332,16253230,Private room,Brent,Brondesbury Park,1,0,1,1,64,NA,51.537356,-0.225432,19:26.5
+73,387935,1941155,Private room,Hackney,Hackney Downs,2,0,1,1,64,NA,51.560467,-0.06469,29:29.4
+74,15777856,52986463,Entire home/apt,Hackney,Cazenove,1,0,4,1,83,NA,51.564059,-0.069765,40:35.4
+75,17184311,64311971,Entire home/apt,Tower Hamlets,Bethnal Green,0,0,9,3,155,NA,51.525904,-0.047443,36:02.7
+76,12774793,16257141,Private room,Lewisham,Ladywell,2,0,1,1,47,NA,51.454231,-0.026578,49:50.6
+77,11584665,61254666,Private room,Westminster,Churchill,0,0,2,1,64,NA,51.489633,-0.148609,07:50.4
+78,13615272,69933112,Entire home/apt,Greenwich,Peninsula,11,4.5,2,1,109,NA,51.497688,0.0113,28:36.5
+79,7396148,38751529,Entire home/apt,Westminster,Bayswater,2,0,2,0,114,NA,51.515843,-0.1931,16:12.6
+80,3388038,11655115,Private room,Lambeth,Coldharbour,71,5,2,1,70,NA,51.463206,-0.110638,04:14.7
+81,16674189,27177156,Private room,Brent,Harlesden,4,5,2,1,77,NA,51.54201,-0.25459,50:39.0
+82,15081648,95425780,Private room,Hackney,Dalston,2,0,1,1,45,NA,51.548411,-0.068398,18:15.2
+83,16058829,91820153,Private room,Merton,Dundonald,5,5,5,3,58,NA,51.413888,-0.207252,19:06.3
+84,11519554,60726162,Entire home/apt,Westminster,Vincent Square,55,5,4,1,175,NA,51.495119,-0.136794,56:00.2
+85,15096177,74693812,Private room,Brent,Willesden Green,0,0,1,1,46,NA,51.546614,-0.237902,39:25.8
+86,15338435,22606709,Private room,Hackney,Hackney Downs,1,0,2,1,40,NA,51.559714,-0.068007,16:49.2
+87,6407294,31399710,Private room,Lewisham,Perry Vale,5,5,2,1,26,NA,51.434431,-0.047365,13:12.1
+88,13680932,2331446,Entire home/apt,Tower Hamlets,Blackwall & Cubitt Town,6,4,6,2,232,NA,51.499532,-0.014748,20:24.4
+89,15407438,24971123,Private room,Lewisham,Grove Park,2,0,2,1,46,NA,51.431891,0.031764,44:59.9
+90,17352970,73742409,Entire home/apt,Ealing,East Acton,0,0,8,4,159,NA,51.509353,-0.246691,41:30.7
+91,15334189,68031451,Private room,Hounslow,Osterley and Spring Grove,7,5,1,1,53,NA,51.484098,-0.334718,27:13.0
+92,8548361,45000081,Entire home/apt,Westminster,Lancaster Gate,11,3.5,2,0,52,NA,51.512736,-0.180354,07:29.3
+93,10994602,133271,Entire home/apt,Hackney,Hoxton East & Shoreditch,60,4.5,6,3,167,NA,51.525067,-0.081041,36:14.1
+94,10624568,53948860,Private room,Ealing,Ealing Common,5,5,2,1,38,NA,51.507761,-0.295242,03:53.2
+95,10824075,33889201,Entire home/apt,Kensington and Chelsea,Chelsea Riverside,1,0,10,6,708,NA,51.478049,-0.182176,27:41.0
+96,6509444,555427,Private room,Southwark,Brunswick Park,45,5,2,1,45,NA,51.478347,-0.085181,50:51.9
+97,455422,2263463,Private room,Hammersmith and Fulham,Shepherd's Bush Green,1,0,1,1,58,NA,51.506271,-0.219325,13:08.6
+98,16765232,88223047,Entire home/apt,Camden,Camden Town with Primrose Hill,1,0,2,1,103,NA,51.541405,-0.142551,50:48.9
+99,14277767,74564614,Private room,Wandsworth,Queenstown,13,5,2,1,103,NA,51.474466,-0.158252,47:16.4
+100,2872789,14681930,Private room,Southwark,The Lane,14,4.5,2,1,53,NA,51.465948,-0.067694,51:33.4
+101,4983750,7547731,Entire home/apt,Hackney,Haggerston,12,4.5,2,1,64,NA,51.534627,-0.069111,11:32.3
+102,7268962,12049206,Entire home/apt,Kensington and Chelsea,Redcliffe,22,5,5,2,283,NA,51.490645,-0.183619,36:52.5
+103,314985,1617885,Private room,Newham,Plaistow South,6,5,2,1,41,NA,51.526615,0.031089,26:18.5
+104,13393011,10961528,Private room,Southwark,Faraday,29,5,1,1,46,NA,51.486611,-0.091995,52:02.4
+105,17403777,117663491,Private room,Lewisham,Grove Park,0,0,4,1,64,NA,51.428523,0.034871,40:30.9
+106,16422310,70608323,Private room,Kensington and Chelsea,Campden,4,5,2,1,82,NA,51.500663,-0.197349,46:30.7
+107,15628241,27572615,Entire home/apt,Kensington and Chelsea,Courtfield,2,0,4,2,283,NA,51.492646,-0.183424,36:49.5
+108,14972984,94317022,Entire home/apt,Lambeth,Larkhall,25,5,3,1,118,NA,51.471258,-0.121626,59:20.2
+109,15364295,92865441,Entire home/apt,Camden,Regent's Park,11,4.5,6,2,114,NA,51.52763,-0.14395,36:22.9
+110,4240612,22004860,Entire home/apt,Hammersmith and Fulham,College Park and Old Oak,22,4.5,3,1,103,NA,51.511222,-0.226366,41:39.2
+111,2411398,12322829,Entire home/apt,Haringey,Crouch End,7,4.5,2,1,103,NA,51.577647,-0.126923,45:29.9
+112,11369984,59583749,Private room,Kensington and Chelsea,Holland,0,0,2,1,43,NA,51.500324,-0.210645,13:08.0
+113,9819339,9722644,Private room,Islington,Holloway,1,0,2,1,83,NA,51.553323,-0.118243,32:49.5
+114,6190132,30414641,Entire home/apt,Tower Hamlets,Weavers,0,0,4,2,129,NA,51.529215,-0.072377,51:15.7
+115,16632436,20790087,Entire home/apt,Haringey,Alexandra,4,5,8,3,129,NA,51.604606,-0.142016,40:58.9
+116,7169795,25171354,Private room,Ealing,Elthorne,0,0,2,1,83,NA,51.504466,-0.328112,01:17.9
+117,15726509,101611265,Entire home/apt,Southwark,Cathedrals,16,4.5,4,2,193,NA,51.504111,-0.091563,54:20.5
+118,4907277,5372882,Entire home/apt,Westminster,Westbourne,0,0,2,1,176,NA,51.523428,-0.201765,42:23.8
+119,10827805,56065478,Entire home/apt,Southwark,Brunswick Park,11,5,4,1,129,NA,51.471183,-0.087973,04:23.5
+120,7785431,40967125,Entire home/apt,Wandsworth,West Hill,0,0,3,2,155,NA,51.442117,-0.211335,31:45.5
+121,11401305,59639401,Entire home/apt,Richmond upon Thames,Kew,1,0,4,2,101,NA,51.478721,-0.277559,53:35.6
+122,8125980,15953437,Private room,Tower Hamlets,Bow East,2,0,2,1,64,NA,51.540571,-0.020501,29:09.7
+123,11161147,58045122,Private room,Camden,Regent's Park,2,0,2,1,64,NA,51.531225,-0.139456,40:15.6
+124,13484305,2266268,Entire home/apt,Westminster,Tachbrook,11,4.5,6,2,450,NA,51.488293,-0.136485,18:29.0
+125,5028588,25954787,Entire home/apt,Westminster,West End,21,4.5,2,1,193,NA,51.514147,-0.129985,54:36.5
+126,13357492,75759155,Private room,Brent,Kilburn,8,4.5,2,1,32,NA,51.540672,-0.199383,30:09.9
+127,13298520,75081984,Entire home/apt,Camden,Belsize,20,5,4,1,83,NA,51.549745,-0.164075,49:19.8
+128,16791758,727274,Private room,Westminster,Bryanston and Dorset Square,0,0,2,1,77,NA,51.522389,-0.160854,40:08.3
+129,13009827,323803,Entire home/apt,Merton,Dundonald,4,4.5,8,4,244,NA,51.418088,-0.21069,50:46.9
+130,14948485,93890348,Entire home/apt,Islington,Caledonian,2,0,6,2,371,NA,51.537328,-0.119561,13:20.6
+131,7567288,36272403,Private room,Hackney,Lea Bridge,1,0,2,1,64,NA,51.563462,-0.051675,30:21.7
+132,9966469,10990124,Private room,Hackney,Stoke Newington,0,0,2,1,48,NA,51.560145,-0.074138,20:26.3
+133,13993328,83557171,Private room,Islington,Holloway,12,5,3,1,46,NA,51.55328,-0.113093,08:39.0
+134,15982992,50291093,Entire home/apt,Southwark,Cathedrals,0,0,2,1,155,NA,51.500246,-0.098727,32:22.2
+135,17076162,485861,Entire home/apt,Westminster,West End,0,0,7,2,269,NA,51.507318,-0.144157,29:29.2
+136,7465421,39103718,Entire home/apt,Southwark,Riverside,0,0,4,2,226,NA,51.501823,-0.077827,21:31.3
+137,15462482,78313829,Entire home/apt,Southwark,Cathedrals,10,4,2,1,141,NA,51.494726,-0.102066,40:27.7
+138,1520434,6070670,Entire home/apt,Wandsworth,St. Mary's Park,89,4.5,2,1,128,NA,51.472019,-0.166628,09:52.3
+139,14633789,16333693,Entire home/apt,Hackney,London Fields,2,0,2,1,93,NA,51.537119,-0.063024,43:27.9
+140,5397205,15734832,Private room,Lambeth,Clapham Common,4,4.5,1,1,63,NA,51.459435,-0.130554,09:08.3
+141,15229626,96773145,Private room,Richmond upon Thames,South Twickenham,0,0,3,1,129,NA,51.445714,-0.339228,37:01.1
+142,7401497,38781533,Private room,Brent,Harlesden,0,0,1,1,38,NA,51.540816,-0.252036,45:03.1
+143,10763220,7925847,Entire home/apt,Wandsworth,Nightingale,2,0,4,1,70,NA,51.445037,-0.157308,28:02.4
+144,3097141,15751778,Entire home/apt,Brent,Queens Park,7,4,6,3,232,NA,51.534089,-0.223625,08:19.0
+145,13444673,76511452,Private room,Westminster,West End,48,4.5,2,1,101,NA,51.514132,-0.136349,31:53.8
+146,9689249,3567006,Entire home/apt,Hackney,Dalston,1,0,5,2,109,NA,51.544618,-0.067323,29:26.9
+147,11844114,35376027,Private room,Tower Hamlets,Spitalfields & Banglatown,6,4.5,2,1,77,NA,51.520357,-0.056584,31:41.3
+148,13561162,56581866,Entire home/apt,Camden,Regent's Park,32,4.5,3,1,166,NA,51.528993,-0.142214,38:19.2
+149,15003028,18982272,Entire home/apt,Greenwich,Kidbrooke with Hornfair,0,0,2,1,129,NA,51.474365,0.045124,51:52.5
+150,14116521,67904006,Private room,Kingston upon Thames,Canbury,1,0,4,2,161,NA,51.413638,-0.292892,40:08.8
+151,14133406,41845403,Entire home/apt,Westminster,Westbourne,0,0,4,2,258,NA,51.519199,-0.200378,06:21.1
+152,17182298,115627209,Private room,Islington,Caledonian,0,0,2,2,45,NA,51.54513,-0.11832,35:50.1
+153,6373965,33215957,Entire home/apt,Lambeth,Thurlow Park,6,4.5,2,1,90,NA,51.441017,-0.107506,25:14.9
+154,16348501,65319925,Private room,Lewisham,Blackheath,1,0,2,1,31,NA,51.461799,0.002264,30:24.9
+155,9343200,48487341,Entire home/apt,Islington,Caledonian,1,0,4,2,193,NA,51.541973,-0.116434,53:39.5
+156,341143,1499506,Private room,Haringey,Stroud Green,4,5,2,1,90,NA,51.570341,-0.110964,33:22.6
+157,16820520,1674201,Entire home/apt,Hammersmith and Fulham,Fulham Reach,0,0,4,1,96,NA,51.488732,-0.224285,45:22.9
+158,10569665,49791467,Entire home/apt,Camden,St. Pancras and Somers Town,45,5,4,1,206,NA,51.537228,-0.137677,53:42.7
+159,2826567,14460965,Entire home/apt,Wandsworth,Fairfield,19,5,4,2,115,NA,51.458293,-0.196912,42:28.8
+160,4798157,13282506,Private room,Tower Hamlets,St. Peter's,25,4.5,2,1,52,NA,51.525492,-0.063697,27:55.0
+161,13289226,7851320,Entire home/apt,Southwark,The Lane,2,0,2,1,103,NA,51.471998,-0.075141,57:56.0
+162,1833509,9588243,Private room,Croydon,South Norwood,0,0,2,1,64,NA,51.398795,-0.077267,03:42.3
+163,9380713,40586280,Entire home/apt,Wandsworth,Shaftesbury,0,0,4,2,193,NA,51.464318,-0.160495,17:24.9
+164,12026695,63917819,Private room,Southwark,Cathedrals,5,4.5,4,1,129,NA,51.495747,-0.104211,37:51.0
+165,6449505,3517620,Private room,Tower Hamlets,St. Peter's,0,0,1,1,64,NA,51.525761,-0.056677,31:45.8
+166,6432860,3109728,Entire home/apt,Camden,Haverstock,56,4.5,4,1,128,NA,51.545955,-0.154111,42:04.8
+167,6686548,13129126,Entire home/apt,Haringey,Stroud Green,24,4.5,2,1,75,NA,51.568787,-0.107294,08:44.8
+168,17569901,110250725,Entire home/apt,Westminster,West End,1,0,5,2,353,NA,51.519155,-0.139934,14:32.9
+169,97178,510439,Private room,Hammersmith and Fulham,College Park and Old Oak,173,5,2,1,58,NA,51.520994,-0.228518,15:42.2
+170,15267243,4775,Entire home/apt,Islington,Bunhill,3,4.5,7,3,482,NA,51.526028,-0.089094,11:50.6
+171,13127559,73056440,Entire home/apt,Southwark,Rotherhithe,2,0,2,1,141,NA,51.500499,-0.057138,40:41.9
+172,17421553,108542728,Private room,Brent,Queensbury,2,0,2,1,26,NA,51.585816,-0.279416,29:58.6
+173,8983661,46934708,Private room,Newham,Stratford and New Town,0,0,1,1,67,NA,51.540713,0.009642,28:33.8
+174,9183006,2800154,Private room,Haringey,Noel Park,1,0,2,1,33,NA,51.596238,-0.103031,19:40.4
+175,17865241,40194587,Entire home/apt,Brent,Brondesbury Park,0,0,5,2,115,NA,51.545952,-0.223598,16:21.3
+176,16424328,107668274,Private room,Barnet,Edgware,0,0,1,1,26,NA,51.609694,-0.27376,23:04.2
+177,14614508,5070959,Entire home/apt,Lambeth,Clapham Common,0,0,6,3,238,NA,51.456691,-0.143494,38:40.7
+178,9122362,19560262,Entire home/apt,Westminster,Bryanston and Dorset Square,0,0,2,1,109,NA,51.52014,-0.161742,37:47.8
+179,10162132,52102841,Entire home/apt,Kensington and Chelsea,Holland,0,0,2,1,232,NA,51.500119,-0.21157,39:16.7
+180,15782202,84781507,Entire home/apt,Hammersmith and Fulham,Fulham Broadway,5,4,3,1,70,NA,51.481122,-0.205574,22:15.9
+181,1989450,10257409,Private room,Greenwich,Peninsula,29,4,4,1,50,NA,51.48627,0.027228,16:24.9
+182,14813834,92591313,Private room,Ealing,South Acton,0,0,2,1,90,NA,51.502252,-0.275312,14:25.0
+183,10742636,33889201,Entire home/apt,Kensington and Chelsea,Queen's Gate,0,0,7,4,658,NA,51.497738,-0.187003,28:49.9
+184,13905660,33549080,Entire home/apt,Westminster,St. James's,7,4.5,16,7,2315,NA,51.510817,-0.130727,30:54.0
+185,1895949,9844340,Entire home/apt,Kensington and Chelsea,Stanley,0,0,2,0,174,NA,51.487788,-0.175436,21:38.3
+186,11034564,9415349,Entire home/apt,Westminster,Marylebone High Street,12,4.5,2,1,115,NA,51.520462,-0.154563,36:49.5
+187,2019477,922398,Entire home/apt,Tower Hamlets,Whitechapel,4,3.5,6,2,244,NA,51.51365,-0.071071,21:33.9
+188,8236128,43292394,Private room,Enfield,Southgate,0,0,2,1,129,NA,51.631329,-0.124551,36:17.3
+189,17799340,3069640,Private room,Hackney,Dalston,0,0,4,1,64,NA,51.548846,-0.068627,30:56.8
+190,11665555,16526590,Entire home/apt,Westminster,Warwick,46,4.5,4,1,96,NA,51.491413,-0.139798,10:37.1
+191,8546405,5253264,Entire home/apt,Hackney,Hoxton East & Shoreditch,6,4.5,4,1,103,NA,51.535385,-0.080995,44:33.8
+192,11547137,16809766,Private room,Hammersmith and Fulham,College Park and Old Oak,1,0,2,1,46,NA,51.517103,-0.227546,40:09.8
+193,6990328,36649288,Private room,Lewisham,Blackheath,0,0,1,1,58,NA,51.466345,-0.00295,17:47.9
+194,16293745,133271,Entire home/apt,Hackney,Hoxton East & Shoreditch,1,0,4,1,130,NA,51.522756,-0.08103,40:34.8
+195,6138651,5664238,Entire home/apt,Lambeth,Coldharbour,15,5,4,2,141,NA,51.462901,-0.111042,32:38.4
+196,15168123,9772650,Entire home/apt,Merton,Abbey,2,0,2,1,83,NA,51.416958,-0.194976,35:10.0
+197,10629182,44114247,Private room,Croydon,Upper Norwood,9,4.5,1,2,32,NA,51.417776,-0.083996,03:06.5
+198,12184892,61407694,Entire home/apt,Westminster,Vincent Square,29,5,3,1,174,NA,51.491425,-0.127639,32:09.9
+199,15927476,85058902,Entire home/apt,Greenwich,Thamesmead Moorings,2,0,4,2,112,NA,51.5044,0.099689,52:24.4
+200,3478101,5922017,Entire home/apt,Islington,Caledonian,5,3,2,0,101,NA,51.539904,-0.117859,48:32.3
+201,5638841,14916580,Entire home/apt,Hammersmith and Fulham,Town,25,4.5,2,1,90,NA,51.473291,-0.206232,42:09.2
+202,4116041,4280203,Entire home/apt,Camden,King's Cross,9,4,4,2,218,NA,51.529444,-0.12224,52:49.9
+203,17822699,121851336,Entire home/apt,Barnet,Hendon,0,0,4,2,161,NA,51.586333,-0.227558,06:30.3
+204,16921001,53323008,Entire home/apt,Kensington and Chelsea,Notting Dale,3,4.5,2,1,193,NA,51.515071,-0.211335,17:43.8
+205,12694352,68997532,Entire home/apt,Kensington and Chelsea,Courtfield,0,0,5,2,192,NA,51.490914,-0.182845,04:53.4
+206,6622197,34659747,Private room,Lewisham,Telegraph Hill,0,0,1,1,50,NA,51.467665,-0.040336,48:52.3
+207,12025011,23822191,Private room,Lambeth,Larkhall,4,5,2,1,38,NA,51.471766,-0.139064,22:34.2
+208,11589920,46875439,Private room,Wandsworth,Northcote,11,5,2,1,66,NA,51.45715,-0.16269,09:16.7
+209,9388984,28769840,Entire home/apt,Hackney,Hackney Central,1,0,4,2,141,NA,51.545633,-0.061913,41:48.1
+210,17960423,123283290,Private room,Ealing,Ealing Common,0,0,2,0,59,NA,51.503239,-0.305815,27:07.6
+211,388115,1941905,Private room,Brent,Kensal Green,0,0,2,1,64,NA,51.53397,-0.227731,02:22.1
+212,16269614,93838261,Entire home/apt,Haringey,Muswell Hill,6,4.5,4,2,90,NA,51.584741,-0.129111,40:46.1
+213,6582862,24194499,Private room,Tower Hamlets,Stepney Green,6,4,4,1,38,NA,51.517725,-0.049791,58:55.0
+214,14986067,80433937,Private room,Ealing,South Acton,8,5,2,1,43,NA,51.506081,-0.27707,24:39.3
+215,16643000,7014639,Entire home/apt,Kensington and Chelsea,Brompton & Hans Town,4,5,5,2,205,NA,51.495655,-0.162329,00:08.6
+216,1494590,7988456,Entire home/apt,Westminster,Westbourne,27,5,3,1,155,NA,51.523083,-0.191164,36:21.0
+217,4791001,24014262,Private room,Camden,Camden Town with Primrose Hill,154,4.5,3,1,70,NA,51.540736,-0.142463,32:37.6
+218,13861685,3109728,Private room,Islington,Highbury West,1,0,2,1,101,NA,51.560346,-0.101323,32:20.6
+219,15047828,91720968,Entire home/apt,Waltham Forest,Cann Hall,5,3.5,5,0,77,NA,51.557396,0.01081,09:55.7
+220,16039467,12847454,Entire home/apt,Westminster,St. James's,9,5,4,2,386,NA,51.498416,-0.134632,12:01.4
+221,8890698,27602315,Entire home/apt,Southwark,Peckham,12,3.5,6,1,64,NA,51.47714,-0.070011,14:39.6
+222,13657356,17802881,Private room,Hammersmith and Fulham,Hammersmith Broadway,0,0,1,1,36,NA,51.493884,-0.221083,00:25.4
+223,3810217,19457385,Private room,Lambeth,Brixton Hill,5,4.5,2,1,36,NA,51.44953,-0.125883,04:59.8
+224,14181869,85918188,Private room,Waltham Forest,Forest,0,0,1,1,27,NA,51.575177,0.00649,17:22.8
+225,11590138,60158918,Private room,Islington,Finsbury Park,0,0,2,1,54,NA,51.560698,-0.118971,32:46.1
+226,7333220,12204679,Entire home/apt,Southwark,Village,2,0,5,3,90,NA,51.447436,-0.082201,25:05.9
+227,9103670,27808855,Entire home/apt,Kensington and Chelsea,Queen's Gate,0,0,4,1,289,NA,51.50115,-0.18568,36:58.5
+228,683495,1872358,Private room,Lewisham,Telegraph Hill,12,4.5,3,1,47,NA,51.466566,-0.039211,48:53.8
+229,2596949,11326568,Entire home/apt,Harrow,Kenton East,27,4.5,2,1,90,NA,51.592089,-0.294142,48:34.7
+230,16984495,21395343,Private room,Hounslow,Hounslow South,1,0,1,1,32,NA,51.462289,-0.35328,53:53.0
+231,11030221,54310712,Private room,Hounslow,Syon,0,0,2,1,58,NA,51.476476,-0.33008,40:09.5
+232,473396,2347143,Private room,Redbridge,Snaresbrook,6,5,2,1,64,NA,51.581937,0.026041,27:58.4
+233,11916940,2205767,Entire home/apt,Tower Hamlets,Whitechapel,0,0,3,1,64,NA,51.516296,-0.062008,13:37.0
+234,17073500,78571525,Private room,Newham,Stratford and New Town,0,0,2,1,38,NA,51.550619,-0.003843,17:17.4
+235,6611740,34598027,Private room,Kensington and Chelsea,Courtfield,17,5,1,1,70,NA,51.494011,-0.184116,27:10.0
+236,13449340,33561493,Private room,Camden,Kentish Town,1,0,2,1,64,NA,51.553743,-0.139961,37:17.6
+237,16068003,17895996,Private room,Tower Hamlets,Blackwall & Cubitt Town,26,4.5,2,1,52,NA,51.49773,-0.012894,04:43.9
+238,3959173,20518432,Private room,Sutton,Nonsuch,0,0,1,1,64,NA,51.365812,-0.224282,31:21.5
+239,14904334,86499942,Entire home/apt,Camden,Kentish Town,7,5,5,1,99,NA,51.552688,-0.141403,49:29.5
+240,17207163,73360326,Entire home/apt,Newham,Canning Town South,0,0,4,1,258,NA,51.508486,0.014815,14:18.8
+241,15779754,101618212,Private room,Kensington and Chelsea,Brompton & Hans Town,0,0,2,1,129,NA,51.494381,-0.167431,35:26.1
+242,15724682,42362317,Private room,Camden,Kentish Town,9,5,1,1,37,NA,51.553297,-0.142034,50:22.0
+243,17081779,114618625,Entire home/apt,Westminster,Marylebone High Street,1,0,4,1,180,NA,51.520842,-0.152925,41:47.1
+244,3528858,2336745,Entire home/apt,Westminster,Little Venice,16,4.5,5,3,321,NA,51.522842,-0.17654,15:23.7
+245,16093486,100101017,Private room,Tower Hamlets,Whitechapel,26,5,2,1,77,NA,51.513096,-0.06256,27:00.1
+246,16834536,95454082,Entire home/apt,Tower Hamlets,St. Peter's,1,0,7,3,115,NA,51.527891,-0.060568,31:10.9
+247,7686743,33889201,Entire home/apt,Kensington and Chelsea,Holland,2,0,14,6,1159,NA,51.500206,-0.211568,30:47.8
+248,17949701,123161149,Entire home/apt,Hammersmith and Fulham,North End,0,0,4,2,181,NA,51.489583,-0.20799,36:43.4
+249,7173464,19427349,Entire home/apt,Wandsworth,Thamesfield,9,5,5,3,155,NA,51.461467,-0.209257,49:07.6
+250,7284615,38146028,Entire home/apt,Lewisham,Brockley,1,0,2,1,90,NA,51.474285,-0.023143,56:12.7
+251,5635183,27120664,Private room,Barnet,Hendon,14,4.5,1,1,26,NA,51.582219,-0.2129,23:38.9
+252,15815211,10055132,Entire home/apt,Southwark,South Bermondsey,2,0,4,2,155,NA,51.491124,-0.065142,42:03.3
+253,1608691,8194848,Private room,Enfield,Winchmore Hill,16,4.5,2,1,70,NA,51.621635,-0.114934,28:15.4
+254,17421490,105854626,Private room,Kensington and Chelsea,Stanley,3,5,2,1,85,NA,51.492435,-0.170654,47:13.8
+255,16780104,8856887,Private room,Westminster,St. James's,0,0,1,1,83,NA,51.513182,-0.124897,44:19.4
+256,3467074,17458143,Entire home/apt,Barnet,Garden Suburb,11,5,3,2,167,NA,51.580825,-0.196006,06:21.9
+257,4547545,3708473,Private room,Greenwich,Woolwich Common,21,5,2,1,28,NA,51.472577,0.048425,27:44.9
+258,14837888,19128933,Private room,Hackney,King's Park,0,0,1,1,38,NA,51.553304,-0.03658,17:21.0
+259,9376679,8507380,Entire home/apt,Westminster,Church Street,3,4.5,9,4,371,NA,51.522132,-0.167676,15:25.1
+260,17430474,1251704,Entire home/apt,Westminster,Marylebone High Street,2,0,6,3,232,NA,51.517424,-0.151995,19:47.7
+261,12887488,68531550,Private room,Kensington and Chelsea,Redcliffe,0,0,1,1,64,NA,51.488086,-0.19212,55:21.5
+262,15979235,103813902,Entire home/apt,Newham,Custom House,2,0,6,4,200,NA,51.511536,0.029595,52:48.2
+263,10429453,37983112,Private room,Greenwich,Blackheath Westcombe,1,0,2,1,58,NA,51.481329,0.010764,17:46.9
+264,15914197,101400679,Entire home/apt,Islington,Bunhill,19,4,4,1,114,NA,51.526213,-0.100534,28:52.6
+265,12962455,28609328,Private room,Tower Hamlets,Stepney Green,6,2.5,3,1,38,NA,51.518142,-0.050929,13:21.1
+266,17838603,1525880,Entire home/apt,Southwark,Rotherhithe,0,0,4,1,162,NA,51.499032,-0.050299,44:55.9
+267,16116975,93003034,Private room,Southwark,Rotherhithe,7,5,1,1,70,NA,51.500775,-0.055136,27:48.5
+268,10990844,19511819,Private room,Hackney,London Fields,3,4.5,2,1,38,NA,51.538966,-0.069265,38:05.6
+269,2596246,13293550,Private room,Tower Hamlets,St. Dunstan's,6,4,2,1,52,NA,51.521654,-0.037672,39:28.0
+270,16834583,112053528,Entire home/apt,Kensington and Chelsea,Queen's Gate,0,0,3,1,155,NA,51.495935,-0.187242,40:44.1
+271,2919055,14906540,Entire home/apt,Hammersmith and Fulham,College Park and Old Oak,122,4.5,6,2,155,NA,51.517774,-0.229737,41:22.9
+272,6714727,35155451,Entire home/apt,Haringey,Hornsey,2,0,2,1,83,NA,51.583836,-0.116683,46:05.6
+273,11056187,33889201,Entire home/apt,Islington,Canonbury,0,0,6,3,341,NA,51.541774,-0.086505,10:46.8
+274,9604984,49704011,Private room,Merton,Colliers Wood,1,0,2,1,32,NA,51.418549,-0.168146,06:13.0
+275,11674725,10752663,Entire home/apt,Islington,Barnsbury,0,0,3,1,115,NA,51.537113,-0.110272,36:10.6
+276,15493943,99058393,Entire home/apt,Westminster,Regent's Park,1,0,6,3,174,NA,51.525147,-0.160217,41:35.7
+277,8620475,19970435,Private room,Richmond upon Thames,Twickenham Riverside,14,4.5,2,1,103,NA,51.455855,-0.309886,35:29.7
+278,2027129,10412680,Entire home/apt,Kingston upon Thames,Canbury,22,5,4,2,119,NA,51.414066,-0.297903,29:32.1
+279,15023906,28384923,Private room,Southwark,Brunswick Park,0,0,2,1,77,NA,51.469942,-0.078922,48:23.7
+280,6333987,19383375,Entire home/apt,Islington,Barnsbury,11,4.5,2,0,101,NA,51.542675,-0.108786,47:55.2
+281,6822660,4608727,Entire home/apt,Islington,Junction,7,4.5,7,4,542,NA,51.561958,-0.137694,28:17.0
+282,8208889,42621797,Private room,Hackney,Stoke Newington,1,0,2,1,64,NA,51.559045,-0.080606,30:25.7
+283,16327915,60524679,Private room,Tower Hamlets,Spitalfields & Banglatown,14,4.5,1,1,38,NA,51.518081,-0.06958,39:27.9
+284,13477049,1463797,Private room,Tower Hamlets,St. Dunstan's,0,0,2,1,102,NA,51.520863,-0.047341,34:04.6
+285,7325650,12689369,Private room,Lambeth,Vassall,0,0,1,1,90,NA,51.473789,-0.110083,47:03.7
+286,8338501,43953516,Entire home/apt,Lewisham,Blackheath,39,5,5,2,167,NA,51.468364,0.010977,44:39.4
+287,15393780,96150452,Private room,Lambeth,Clapham Town,6,4,1,1,45,NA,51.463651,-0.133435,14:05.4
+288,86092,472474,Entire home/apt,Hammersmith and Fulham,North End,52,4.5,5,2,161,NA,51.486991,-0.198261,46:39.8
+289,7673279,40283506,Private room,Merton,Wimbledon Park,1,0,2,1,161,NA,51.425508,-0.189781,38:56.7
+290,12079785,11290936,Private room,Lambeth,Bishop's,21,4.5,2,1,56,NA,51.50222,-0.113657,03:53.1
+291,13182124,1674201,Entire home/apt,Hounslow,Turnham Green,44,5,4,2,96,NA,51.49183,-0.275896,46:56.2
+292,16308536,3747398,Entire home/apt,Tower Hamlets,Shadwell,4,5,9,2,128,NA,51.509871,-0.057125,41:28.2
+293,13615509,78824865,Entire home/apt,Haringey,Harringay,2,0,5,2,96,NA,51.581889,-0.107011,40:48.6
+294,16073852,2198860,Entire home/apt,Westminster,Maida Vale,9,5,6,2,128,NA,51.531438,-0.185437,48:46.3
+295,13646904,33889201,Entire home/apt,Hammersmith and Fulham,Ravenscourt Park,0,0,7,4,402,NA,51.490826,-0.242022,38:29.9
+296,9647515,47334723,Private room,Westminster,West End,11,5,2,1,166,NA,51.512191,-0.155612,38:51.9
+297,13036566,33342614,Entire home/apt,Islington,Holloway,1,0,2,1,103,NA,51.550417,-0.114855,48:23.3
+298,5985654,20245981,Entire home/apt,Wandsworth,St. Mary's Park,1,0,2,0,123,NA,51.479618,-0.165857,01:56.2
+299,5847239,30357801,Private room,Wandsworth,Furzedown,2,0,1,1,36,NA,51.422649,-0.149348,04:41.4
+300,12043826,979487,Entire home/apt,Wandsworth,Balham,7,5,3,2,126,NA,51.449627,-0.14931,09:59.0
+301,8243706,40281453,Entire home/apt,Redbridge,Church End,49,4.5,5,2,122,NA,51.591929,0.022896,28:01.1
+302,7964230,3876065,Private room,Kensington and Chelsea,Golborne,0,0,2,1,100,NA,51.524928,-0.21082,10:03.4
+303,10313606,22041596,Private room,Wandsworth,Thamesfield,32,5,2,1,68,NA,51.464288,-0.212651,56:50.8
+304,15144586,94250766,Entire home/apt,Westminster,Hyde Park,3,3.5,7,3,579,NA,51.514243,-0.163838,29:09.0
+305,17132721,12144267,Entire home/apt,Westminster,Lancaster Gate,0,0,8,4,386,NA,51.514347,-0.188602,29:07.6
+306,10422021,33963756,Private room,Lambeth,Streatham Hill,2,0,1,1,52,NA,51.43922,-0.106616,55:41.1
+307,2779534,7588174,Entire home/apt,Hackney,Lea Bridge,4,5,2,1,96,NA,51.565879,-0.049558,42:01.0
+308,11798687,62826730,Private room,Lambeth,Brixton Hill,3,4,2,1,96,NA,51.452625,-0.128315,50:02.7
+309,4394035,12874528,Private room,Lambeth,Tulse Hill,22,5,2,1,58,NA,51.448018,-0.115302,13:52.1
+310,12577620,10108289,Private room,Tower Hamlets,Mile End,1,0,2,1,37,NA,51.517824,-0.023337,29:18.0
+311,1735634,4686775,Private room,Greenwich,Eltham North,20,4.5,1,1,47,NA,51.453436,0.063559,44:36.2
+312,6321777,3242688,Entire home/apt,Islington,Caledonian,7,4.5,5,1,155,NA,51.539083,-0.119471,37:20.2
+313,1355960,7283871,Entire home/apt,Southwark,Grange,9,4.5,4,1,122,NA,51.49335,-0.082243,42:48.4
+314,16438506,107443171,Private room,Barnet,West Hendon,0,0,1,1,28,NA,51.579328,-0.239449,22:58.6
+315,16043899,41150472,Private room,Lewisham,Telegraph Hill,4,4.5,4,1,64,NA,51.460527,-0.038879,48:10.6
+316,3489441,17571186,Entire home/apt,Camden,Highgate,0,0,2,1,77,NA,51.558529,-0.145121,08:53.0
+317,17880170,122417910,Private room,Camden,St. Pancras and Somers Town,0,0,2,0,42,NA,51.535803,-0.138245,31:24.2
+318,6137658,16032483,Private room,Westminster,West End,14,5,2,1,77,NA,51.519034,-0.136607,40:50.3
+319,8510358,25357561,Entire home/apt,Camden,Holborn and Covent Garden,1,0,4,2,206,NA,51.518434,-0.11724,56:47.6
+320,9485750,3750335,Entire home/apt,Camden,Belsize,1,0,2,1,258,NA,51.544746,-0.163503,19:29.0
+321,3493779,17079473,Entire home/apt,Haringey,Stroud Green,1,0,3,2,83,NA,51.57724,-0.114034,45:29.9
+322,8123717,511393,Entire home/apt,Greenwich,Blackheath Westcombe,1,0,4,2,193,NA,51.483084,0.00816,52:56.8
+323,13146940,49992531,Private room,Kensington and Chelsea,Norland,4,5,1,1,58,NA,51.50632,-0.212465,08:08.3
+324,14472232,57569823,Private room,Tower Hamlets,Weavers,18,3.5,5,1,77,NA,51.523316,-0.071773,32:09.1
+325,17725006,4467358,Entire home/apt,Hackney,Lea Bridge,0,0,2,1,103,NA,51.557299,-0.054309,41:24.0
+326,9912859,41846378,Private room,Lewisham,Evelyn,0,0,2,1,43,NA,51.485828,-0.042936,46:32.5
+327,10133054,52002396,Private room,Tower Hamlets,Bethnal Green,0,0,2,1,40,NA,51.528891,-0.049208,46:47.3
+328,15324648,5159168,Entire home/apt,Islington,St. Mary's,0,0,4,2,89,NA,51.546234,-0.103396,45:48.8
+329,11914436,63571440,Entire home/apt,Hackney,London Fields,5,5,4,2,141,NA,51.538984,-0.058781,41:38.5
+330,6848949,35888223,Entire home/apt,Westminster,Tachbrook,0,0,2,2,258,NA,51.489264,-0.135173,35:05.5
+331,12857351,14500389,Private room,Camden,West Hampstead,0,0,2,1,58,NA,51.548435,-0.194025,15:45.4
+332,9091242,40758655,Private room,Newham,Beckton,15,5,2,1,52,NA,51.506777,0.075068,12:50.2
+333,9073562,47322974,Private room,Westminster,Bryanston and Dorset Square,0,0,2,1,58,NA,51.518189,-0.161394,35:33.8
+334,4741699,24292972,Entire home/apt,Kensington and Chelsea,Golborne,18,4.5,4,2,180,NA,51.520911,-0.211223,40:26.4
+335,9379332,48661163,Private room,Westminster,Maida Vale,11,4.5,2,1,32,NA,51.527862,-0.194173,44:49.7
+336,3493186,13041036,Entire home/apt,Camden,Belsize,0,0,6,2,141,NA,51.544848,-0.168633,48:14.2
+337,10676301,55147853,Entire home/apt,Islington,Barnsbury,5,5,2,0,96,NA,51.531892,-0.107026,47:48.4
+338,17559216,118894703,Entire home/apt,Kensington and Chelsea,Brompton & Hans Town,1,0,4,1,101,NA,51.493142,-0.165794,10:43.9
+339,7124564,37301990,Private room,Lambeth,Stockwell,1,0,1,1,30,NA,51.475947,-0.131178,22:39.0
+340,17969848,37201811,Entire home/apt,Hammersmith and Fulham,Sands End,0,0,2,2,155,NA,51.472741,-0.182934,05:53.8
+341,14926460,11904943,Entire home/apt,Ealing,Ealing Broadway,0,0,4,2,328,NA,51.511886,-0.302352,40:40.0
+342,13869640,27572615,Entire home/apt,Hammersmith and Fulham,College Park and Old Oak,3,3.5,6,3,335,NA,51.516394,-0.223468,29:07.5
+343,15344285,53209589,Private room,Lambeth,Oval,22,5,2,1,96,NA,51.486025,-0.124489,47:04.9
+344,17842058,122036732,Shared room,Tower Hamlets,Stepney Green,0,0,1,1,22,NA,51.514505,-0.042583,31:34.6
+345,9871749,33889201,Entire home/apt,Southwark,Cathedrals,0,0,4,2,361,NA,51.506555,-0.090428,10:55.5
+346,9183696,15967610,Entire home/apt,Wandsworth,Thamesfield,5,4.5,2,1,115,NA,51.460652,-0.213242,43:07.0
+347,5145556,12739263,Entire home/apt,Hackney,Hoxton East & Shoreditch,36,5,6,2,386,NA,51.524413,-0.080105,11:32.7
+348,15714675,6575017,Entire home/apt,Brent,Kilburn,0,0,2,1,80,NA,51.533683,-0.202161,32:59.1
+349,17297002,71371491,Private room,Newham,Custom House,1,0,2,1,28,NA,51.515901,0.047921,28:00.1
+350,12302346,7217718,Private room,Greenwich,Greenwich West,19,4.5,3,1,58,NA,51.473289,-0.020614,17:52.2
+351,3135850,5282789,Private room,Islington,Holloway,48,5,2,1,50,NA,51.547408,-0.117298,09:49.6
+352,7943115,29430146,Entire home/apt,Islington,Highbury West,0,0,4,2,192,NA,51.557666,-0.099983,57:36.7
+353,10827996,16377997,Private room,Islington,Holloway,0,0,2,1,45,NA,51.556878,-0.119113,12:23.0
+354,14778058,50268616,Private room,Newham,Canning Town North,31,3.5,4,1,28,NA,51.520532,0.012945,24:25.3
+355,13950778,49201822,Private room,Lambeth,Tulse Hill,2,0,1,1,16,NA,51.449566,-0.112143,21:38.3
+356,8159351,13107990,Entire home/apt,Kensington and Chelsea,Notting Dale,36,4.5,6,2,212,NA,51.512398,-0.218305,03:31.4
+357,15170925,40765193,Private room,Kensington and Chelsea,Golborne,18,5,3,1,58,NA,51.521553,-0.205381,36:57.4
+358,16365768,1217487,Entire home/apt,Lewisham,Ladywell,0,0,4,2,103,NA,51.464554,-0.021622,57:45.9
+359,5940895,7338300,Private room,Barnet,Golders Green,0,0,1,1,57,NA,51.580259,-0.199524,22:16.5
+360,14408621,6974060,Private room,Tower Hamlets,Bow East,13,5,1,1,58,NA,51.537986,-0.022306,05:03.4
+361,9230691,38934270,Entire home/apt,Croydon,Addiscombe,16,4.5,2,0,45,NA,51.377425,-0.080312,07:59.0
+362,9396693,25881070,Private room,Lewisham,Rushey Green,39,4.5,3,1,32,NA,51.444434,-0.017799,01:46.5
+363,6255708,32497707,Private room,Enfield,Highlands,0,0,1,1,35,NA,51.655211,-0.109923,15:45.9
+364,3153564,6221090,Private room,Merton,Graveney,10,4.5,2,1,38,NA,51.416331,-0.155553,06:13.0
+365,15763891,29449929,Private room,Brent,Kilburn,6,4.5,2,1,48,NA,51.541473,-0.202982,33:44.2
+366,14581704,43202308,Private room,Kensington and Chelsea,Stanley,5,5,1,1,52,NA,51.489941,-0.174235,12:47.3
+367,17254295,2860461,Entire home/apt,Westminster,Maida Vale,2,0,4,2,90,NA,51.527317,-0.195617,12:31.2
+368,10860229,51105434,Shared room,Camden,Regent's Park,20,4.5,1,1,35,NA,51.52594,-0.140394,32:19.3
+369,14585648,44281231,Private room,Hammersmith and Fulham,Wormholt and White City,1,0,2,3,58,NA,51.507102,-0.237291,16:16.0
+370,3547150,17857920,Entire home/apt,Lambeth,Larkhall,13,5,4,0,123,NA,51.473821,-0.132533,02:49.6
+371,5742960,29787368,Private room,Richmond upon Thames,St. Margarets and North Twickenham,19,4.5,2,1,103,NA,51.452042,-0.334669,35:29.7
+372,4845134,5221066,Private room,Tower Hamlets,St. Peter's,16,5,2,1,64,NA,51.529252,-0.064522,29:57.4
+373,1763163,9029844,Entire home/apt,Hounslow,Chiswick Riverside,13,5,7,4,309,NA,51.483503,-0.275461,26:53.5
+374,3772348,19336279,Entire home/apt,Kensington and Chelsea,Holland,0,0,3,1,160,NA,51.500931,-0.21188,43:07.2
+375,16333806,92428086,Entire home/apt,Wandsworth,East Putney,4,4.5,2,1,109,NA,51.458004,-0.204315,42:24.3
+376,16398287,2125620,Entire home/apt,Kensington and Chelsea,Pembridge,5,4.5,8,3,373,NA,51.511123,-0.194494,29:12.6
+377,14246415,82035248,Private room,Islington,Canonbury,2,0,1,1,47,NA,51.546177,-0.086028,09:23.1
+378,16540911,25269734,Private room,Hackney,Dalston,0,0,2,1,52,NA,51.544763,-0.0699,08:09.6
+379,664740,2430391,Entire home/apt,Camden,Bloomsbury,4,5,5,1,155,NA,51.525379,-0.12518,41:26.1
+380,12640133,5732152,Entire home/apt,Hackney,Hackney Downs,6,5,3,1,129,NA,51.562587,-0.070809,42:54.2
+381,11622275,21129445,Entire home/apt,Westminster,Church Street,10,3.5,5,2,128,NA,51.525325,-0.174626,48:14.9
+382,16703638,110637738,Private room,Tower Hamlets,St. Katharine's & Wapping,2,0,2,1,70,NA,51.505275,-0.063295,41:37.1
+383,16252209,62368024,Entire home/apt,Islington,Clerkenwell,0,0,1,0,90,NA,51.523345,-0.107375,39:59.7
+384,3304450,6918494,Private room,Newham,Custom House,9,4,2,1,75,NA,51.514954,0.028029,28:31.3
+385,7033817,36876111,Private room,Merton,Hillside,7,5,2,1,115,NA,51.426233,-0.203617,25:31.0
+386,1119235,6141620,Private room,Lambeth,Oval,42,4.5,2,1,36,NA,51.480939,-0.12682,22:32.1
+387,14961563,33889201,Entire home/apt,Wandsworth,West Hill,0,0,4,2,306,NA,51.452178,-0.211504,16:02.7
+388,9409885,8727107,Private room,Camden,West Hampstead,2,0,3,1,67,NA,51.551168,-0.18935,19:19.9
+389,15250892,71779033,Private room,Brent,Willesden Green,7,4.5,3,1,67,NA,51.544174,-0.232375,19:22.7
+390,12953779,10326357,Private room,Hackney,Shacklewell,15,5,2,1,58,NA,51.55124,-0.074751,07:25.1
+391,15067266,53011667,Private room,Hackney,Hackney Downs,14,5,1,1,36,NA,51.561556,-0.06579,14:32.6
+392,1430028,2445468,Entire home/apt,Tower Hamlets,Bow East,1,0,7,3,129,NA,51.536845,-0.022336,43:55.2
+393,17112098,64661860,Private room,Camden,Regent's Park,1,0,2,1,38,NA,51.531455,-0.142865,49:06.9
+394,17565533,99669335,Private room,Barnet,Edgware,1,0,2,1,38,NA,51.613219,-0.281446,04:14.6
+395,15651032,53082937,Entire home/apt,Lambeth,Thurlow Park,1,0,4,2,115,NA,51.444545,-0.106791,33:31.0
+396,9950600,51135505,Private room,Tower Hamlets,Island Gardens,0,0,2,1,45,NA,51.491808,-0.025006,16:37.3
+397,12620328,5379199,Entire home/apt,Tower Hamlets,Bromley South,1,0,4,2,110,NA,51.524282,-0.013825,38:22.3
+398,13862861,81930430,Private room,Kensington and Chelsea,Colville,0,0,2,1,115,NA,51.513983,-0.200724,17:04.0
+399,7238777,2508267,Entire home/apt,Kensington and Chelsea,Brompton & Hans Town,3,4.5,5,3,218,NA,51.499296,-0.163205,37:03.5
+400,16852813,1557929,Entire home/apt,Tower Hamlets,St. Katharine's & Wapping,8,5,2,1,114,NA,51.504262,-0.058359,27:30.3
+401,14241206,10226696,Entire home/apt,Hackney,Clissold,1,0,2,1,85,NA,51.553781,-0.084832,44:03.6
+402,11784517,4940652,Entire home/apt,Lambeth,Tulse Hill,0,0,5,2,66,NA,51.448038,-0.112069,27:57.3
+403,9526019,34189931,Private room,Hammersmith and Fulham,Sands End,1,0,2,1,83,NA,51.474339,-0.188702,07:53.6
+404,15887823,103035847,Private room,Waltham Forest,Chapel End,0,0,2,1,12,NA,51.591057,-0.017506,16:56.2
+405,17802607,92601704,Entire home/apt,Hammersmith and Fulham,North End,2,0,4,1,103,NA,51.488971,-0.207955,42:04.9
+406,10642271,36690399,Private room,Islington,Holloway,1,0,2,1,96,NA,51.550451,-0.118891,35:50.0
+407,13800421,59492093,Entire home/apt,Bromley,Crystal Palace,0,0,3,1,193,NA,51.417336,-0.074105,43:24.4
+408,15037779,20124447,Private room,Hounslow,Brentford,8,5,2,1,83,NA,51.491334,-0.303522,01:54.0
+409,10781766,55779524,Entire home/apt,Camden,Cantelowes,10,4.5,3,2,231,NA,51.546816,-0.137447,15:33.2
+410,446492,2111190,Entire home/apt,Waltham Forest,Cann Hall,2,0,4,0,70,NA,51.559443,0.01231,10:40.2
+411,15980984,92373923,Private room,Harrow,Harrow Weald,0,0,5,1,111,NA,51.61012,-0.347468,13:35.8
+412,14306009,31580987,Private room,Lewisham,Lee Green,0,0,2,1,52,NA,51.446208,0.006664,49:46.5
+413,17486023,10169786,Private room,Lambeth,Stockwell,0,0,2,1,46,NA,51.478085,-0.116962,09:43.7
+414,52151,99183,Entire home/apt,Islington,Mildmay,8,4,2,1,103,NA,51.549574,-0.088083,44:06.8
+415,1739911,9161146,Private room,Tower Hamlets,Weavers,54,5,2,1,101,NA,51.523574,-0.068626,33:55.9
+416,2626154,13449761,Entire home/apt,Hackney,London Fields,7,4.5,6,2,167,NA,51.539884,-0.058711,33:56.3
+417,14548304,49875528,Entire home/apt,Lewisham,Perry Vale,28,4.5,6,2,100,NA,51.43919,-0.053038,15:53.0
+418,16117229,14875410,Entire home/apt,Kensington and Chelsea,Redcliffe,0,0,4,2,353,NA,51.488058,-0.186999,33:23.0
+419,8529395,37718145,Entire home/apt,Islington,Canonbury,0,0,2,1,75,NA,51.545455,-0.087125,11:05.7
+420,15728427,50291093,Entire home/apt,Lambeth,Oval,0,0,4,2,283,NA,51.485392,-0.124877,35:02.7
+421,15269904,18196126,Private room,Southwark,Grange,8,4.5,2,1,52,NA,51.500201,-0.08446,18:19.4
+422,16894476,112723971,Private room,Greenwich,Glyndon,1,0,1,1,45,NA,51.483494,0.082861,12:59.6
+423,15188887,95094896,Entire home/apt,Westminster,Tachbrook,1,0,2,1,103,NA,51.486934,-0.134309,10:50.5
+424,9987721,49996213,Entire home/apt,Westminster,Marylebone High Street,4,5,2,1,232,NA,51.517954,-0.150547,20:00.0
+425,11685339,14875410,Entire home/apt,Hammersmith and Fulham,Sands End,6,5,4,2,180,NA,51.47219,-0.183826,05:56.5
+426,17607498,21374026,Private room,Lambeth,Oval,1,0,2,1,70,NA,51.480275,-0.125687,05:19.9
+427,11297726,3292011,Private room,Hackney,Victoria,0,0,2,1,54,NA,51.538396,-0.051647,27:52.8
+428,17995804,4169665,Entire home/apt,Hackney,Hoxton East & Shoreditch,0,0,2,1,96,NA,51.525941,-0.07866,41:13.0
+429,7948150,27243483,Private room,Ealing,Ealing Broadway,30,5,2,1,64,NA,51.514571,-0.311639,01:00.2
+430,9537520,49401500,Private room,Lewisham,Perry Vale,0,0,1,1,38,NA,51.435921,-0.035191,56:26.8
+431,13677366,21661396,Entire home/apt,Haringey,Stroud Green,5,4.5,2,1,68,NA,51.573695,-0.112025,10:50.4
+432,15967371,9592491,Entire home/apt,Newham,Stratford and New Town,2,0,4,2,140,NA,51.542242,-0.000338,40:52.7
+433,10936536,8850573,Private room,Westminster,Bryanston and Dorset Square,2,0,2,1,101,NA,51.521202,-0.163182,36:23.3
+434,13823639,21058908,Private room,Southwark,Rotherhithe,0,0,2,1,47,NA,51.49084,-0.048606,48:07.5
+435,17185684,109994436,Entire home/apt,Westminster,Church Street,0,0,8,2,251,NA,51.521913,-0.168586,29:45.1
+436,16332297,67527114,Private room,Hammersmith and Fulham,Town,0,0,2,1,40,NA,51.479866,-0.200272,03:06.5
+437,9521576,49059326,Private room,Greenwich,Greenwich West,2,0,2,1,52,NA,51.475216,-0.0178,17:44.7
+438,17492343,118505636,Entire home/apt,Hammersmith and Fulham,North End,0,0,4,0,90,NA,51.488897,-0.20862,44:57.2
+439,15220540,37665895,Private room,Camden,King's Cross,0,0,2,1,95,NA,51.529127,-0.121306,34:51.1
+440,17741145,118505636,Entire home/apt,Hammersmith and Fulham,North End,0,0,4,0,129,NA,51.488621,-0.207101,44:12.7
+441,7138132,30961115,Entire home/apt,Hammersmith and Fulham,Parsons Green and Walham,0,0,7,5,438,NA,51.471766,-0.20099,37:18.5
+442,16153554,37846032,Private room,Lambeth,St. Leonard's,0,0,2,1,32,NA,51.434495,-0.130707,04:32.5
+443,3562155,573623,Entire home/apt,Kensington and Chelsea,Queen's Gate,0,0,6,3,1727,NA,51.5011,-0.18619,30:54.0
+444,7380510,38662922,Entire home/apt,Lambeth,St. Leonard's,0,0,2,1,515,NA,51.436168,-0.134142,10:33.7
+445,7711436,40510391,Private room,Westminster,Churchill,72,4.5,2,1,115,NA,51.48698,-0.138806,12:37.0
+446,17818824,24911850,Entire home/apt,Hackney,Hackney Downs,0,0,2,1,103,NA,51.558554,-0.057392,40:19.9
+447,6864816,17412055,Private room,Haringey,Alexandra,0,0,4,1,38,NA,51.598587,-0.139814,22:37.7
+448,1122568,1261216,Private room,Hackney,Brownswood,36,5,2,1,50,NA,51.563512,-0.098531,08:33.1
+449,15352048,87905082,Entire home/apt,Hammersmith and Fulham,Hammersmith Broadway,6,4,7,2,212,NA,51.495203,-0.227842,16:10.6
+450,3864191,2213185,Private room,Harrow,Marlborough,13,4.5,2,1,45,NA,51.587799,-0.337619,22:23.2
+451,15136206,66715692,Entire home/apt,Hammersmith and Fulham,Addison,2,0,6,3,238,NA,51.499558,-0.220266,18:03.9
+452,17189342,2157755,Entire home/apt,Kensington and Chelsea,Holland,1,0,2,0,126,NA,51.505655,-0.204739,40:12.4
+453,12228837,36936011,Private room,Islington,Junction,0,0,2,1,56,NA,51.558649,-0.137395,12:15.1
+454,13182458,73732396,Private room,Brent,Queens Park,5,5,2,1,58,NA,51.529987,-0.218719,04:28.4
+455,740867,494782,Private room,Westminster,Lancaster Gate,103,5,2,1,111,NA,51.514004,-0.186344,08:48.6
+456,2719967,3738235,Entire home/apt,Hackney,Stoke Newington,18,5,2,0,93,NA,51.556766,-0.073354,42:56.5
+457,6893245,31567179,Private room,Brent,Kensal Green,5,5,2,1,62,NA,51.538241,-0.241596,16:44.5
+458,7403444,31959903,Private room,Tower Hamlets,Poplar,12,5,2,1,50,NA,51.507443,-0.009849,13:32.1
+459,4368716,22678825,Entire home/apt,Islington,St. Peter's,6,4.5,4,1,155,NA,51.533492,-0.099116,36:53.6
+460,7216636,30693679,Entire home/apt,Lewisham,Forest Hill,0,0,2,1,96,NA,51.439029,-0.059267,53:51.9
+461,9133095,47569386,Shared room,Newham,Beckton,5,4,2,1,11,NA,51.518189,0.052265,32:46.8
+462,17198023,100061573,Private room,Lambeth,Streatham Hill,0,0,2,1,40,NA,51.442529,-0.133088,05:00.7
+463,12005654,31064788,Entire home/apt,Camden,Camden Town with Primrose Hill,9,4.5,3,1,166,NA,51.540496,-0.149813,40:40.1
+464,11227101,58510003,Shared room,Ealing,Elthorne,0,0,2,1,26,NA,51.504097,-0.329614,31:51.3
+465,16718046,133271,Entire home/apt,Islington,Bunhill,1,0,6,2,232,NA,51.524269,-0.093473,16:30.8
+466,11662993,61407694,Entire home/apt,Kensington and Chelsea,Courtfield,8,5,5,2,347,NA,51.490092,-0.179925,18:41.6
+467,13794434,32335409,Entire home/apt,Wandsworth,Southfields,0,0,6,4,321,NA,51.443052,-0.203685,10:54.5
+468,7191549,36199678,Private room,Hammersmith and Fulham,Sands End,1,0,2,1,77,NA,51.471198,-0.191268,57:39.6
+469,13243870,323803,Private room,Merton,Dundonald,0,0,6,3,153,NA,51.41613,-0.20879,39:14.6
+470,465821,2313835,Entire home/apt,Newham,Stratford and New Town,0,0,4,2,141,NA,51.532171,-0.006846,49:28.6
+471,4245405,7202963,Entire home/apt,Westminster,West End,73,5,6,2,129,NA,51.519885,-0.139994,59:30.9
+472,478135,1612612,Entire home/apt,Tower Hamlets,Whitechapel,159,4.5,4,1,109,NA,51.514354,-0.067165,40:22.8
+473,13132312,49877331,Private room,Islington,Bunhill,1,0,2,1,115,NA,51.528831,-0.098852,10:53.8
+474,16327914,106874312,Private room,Kensington and Chelsea,Queen's Gate,0,0,4,2,333,NA,51.496822,-0.181684,40:59.0
+475,4549328,8588900,Private room,Hackney,Woodberry Down,5,5,2,1,37,NA,51.567176,-0.09374,22:02.1
+476,16424457,107667237,Entire home/apt,Bromley,Bromley Town,5,5,4,2,115,NA,51.396929,0.023772,52:17.7
+477,559439,1946265,Private room,Lewisham,Sydenham,0,0,1,1,64,NA,51.428221,-0.05925,40:46.1
+478,11286999,14066216,Private room,Wandsworth,St. Mary's Park,0,0,2,1,58,NA,51.47126,-0.175586,07:18.0
+479,16661002,61346303,Private room,Kensington and Chelsea,Brompton & Hans Town,3,5,4,0,64,NA,51.491789,-0.165416,05:24.5
+480,14312456,70292854,Private room,Southwark,Surrey Docks,0,0,2,1,64,NA,51.493686,-0.038476,41:43.1
+481,7954406,41948162,Private room,Waltham Forest,Hoe Street,0,0,2,1,103,NA,51.588983,-0.017609,32:30.6
+482,16066612,13627321,Private room,Tower Hamlets,Shadwell,13,4,2,1,50,NA,51.509858,-0.049649,42:06.7
+483,1852942,1355290,Private room,Brent,Kensal Green,4,5,2,1,101,NA,51.53232,-0.227079,44:39.3
+484,15245141,96938787,Entire home/apt,Westminster,Lancaster Gate,4,4.5,2,1,128,NA,51.513702,-0.180199,03:11.8
+485,5624967,3938470,Entire home/apt,Tower Hamlets,Whitechapel,8,5,2,1,96,NA,51.515692,-0.067744,27:06.7
+486,16888064,13288783,Private room,Islington,Highbury West,3,5,2,1,70,NA,51.556498,-0.11366,32:46.3
+487,13287751,74959200,Private room,Haringey,Bruce Grove,1,0,1,1,26,NA,51.589144,-0.084796,17:58.1
+488,17647832,120065683,Private room,Merton,Wimbledon Park,0,0,2,1,38,NA,51.434259,-0.198832,17:36.3
+489,14754229,60524679,Private room,Tower Hamlets,Spitalfields & Banglatown,33,4.5,4,1,109,NA,51.519045,-0.068381,08:55.8
+490,17512888,35991547,Entire home/apt,Wandsworth,West Hill,0,0,4,2,258,NA,51.442162,-0.221265,57:52.1
+491,13726146,3809876,Entire home/apt,Hammersmith and Fulham,North End,1,0,6,3,276,NA,51.487064,-0.206174,13:19.1
+492,13250441,74356612,Private room,Tower Hamlets,St. Dunstan's,8,4.5,3,1,45,NA,51.522953,-0.039285,21:36.1
+493,15253235,7844302,Entire home/apt,Hackney,Homerton,0,0,2,0,129,NA,51.548708,-0.050371,40:47.0
+494,14572683,90294082,Entire home/apt,Kensington and Chelsea,Golborne,13,4.5,2,1,129,NA,51.521492,-0.212072,40:20.9
+495,7031340,4830330,Entire home/apt,Hackney,De Beauvoir,0,0,3,2,129,NA,51.537953,-0.085636,47:26.0
+496,9069625,47305441,Private room,Hackney,Stoke Newington,20,4.5,2,2,38,NA,51.557228,-0.071849,18:32.2
+497,16213025,62368024,Entire home/apt,Camden,Holborn and Covent Garden,0,0,2,0,115,NA,51.522009,-0.107336,33:58.1
+498,4248041,22044382,Entire home/apt,Kensington and Chelsea,Redcliffe,0,0,2,1,193,NA,51.487154,-0.190291,17:49.3
+499,5575977,28910494,Private room,Hackney,Hoxton West,0,0,1,1,115,NA,51.530136,-0.088738,08:30.9
+500,3341070,16729784,Private room,Wandsworth,Fairfield,50,5,2,1,77,NA,51.459226,-0.20272,56:56.7
